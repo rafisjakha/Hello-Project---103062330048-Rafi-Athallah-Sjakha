@@ -399,3 +399,5 @@ func lihatSemuaStatus(username string) {
 	}
 	// Menampilkan semua status dan komentar
 }	
+
+// This is an assignment.
